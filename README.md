@@ -1,7 +1,4 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/beaver_1f9ab.png" width=125 height=125 align="right">
-
-##Jose Antonio-@jpadilla90
-
 Hello there!
 
 - 🔭 I’m currently working on automation and integration with <img src="https://external-content.duckduckgo.com/ip3/support.atlassian.com.ico">Atlassian products.
